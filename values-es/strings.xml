@@ -3,12 +3,12 @@
         <!--______APP INTRO______-->
         <!--TITLES-->
             <string name="appintro_introslide_title">Bienvenido a la aplicación oficial OpenGApps.org</string>
-            <string name="appintro_storageperm_title">File Storage Permission</string>
-            <string name="appintro_root_title">Root Permission</string>
-            <string name="appintro_label_architecture">CPU Architecture</string>
-            <string name="appintro_label_android">Android Version</string>
-            <string name="appintro_label_variant">Package Variant</string>
-            <string name="label_tos">Terms of Use</string>
+            <string name="appintro_storageperm_title">Permisos de almacenamiento de archivos</string>
+            <string name="appintro_root_title">Permisos Root?</string>
+            <string name="appintro_label_architecture">Arquitectura CPU</string>
+            <string name="appintro_label_android">Versión de Android</string>
+            <string name="appintro_label_variant">Package Variant?</string>
+            <string name="label_tos">Términos de uso</string>
         <!--DESCRIPTIONS-->
             <string name="appintro_storageperm_explain">To download an Open GApps package, you have to grant the app permission to your File Storage</string>
             <string name="slide_arch_description">Please select the architecture you’d like to use for your Open GApps package</string>

@@ -86,17 +86,17 @@
 
     <!--______DOWNLOAD/INSTALL______-->
         <!--LABELS-->
-            <string name="label_download_error">Connection to server failed</string>
-            <string name="label_download">Download</string>
-            <string name="label_architecture">Architecture</string>
+            <string name="label_download_error">Fallo en la conexión al servidor</string>
+            <string name="label_download">Descargar</string>
+            <string name="label_architecture">Arquitectura</string>
             <string name="label_variant">Variant</string>
-            <string name="invalid_combo">Invalid combination</string>
-            <string name="label_install">Install</string>
-            <string name="label_update">Update</string>
-            <string name="label_change_selection">Change Selection</string>
-            <string name="download_started">Download started</string>
-            <string name="label_download_package">Download Package</string>
-            <string name="label_install_package">Install package</string>
+            <string name="invalid_combo">Combinación no válida</string>
+            <string name="label_install">Instalar</string>
+            <string name="label_update">Actualizar</string>
+            <string name="label_change_selection">Cambiar selección</string>
+            <string name="download_started">Descarga iniciada</string>
+            <string name="label_download_package">Descargar paquete</string>
+            <string name="label_install_package">Instalar paquete</string>
             <string name="label_md5_checksum">MD5-Checksum</string>
             <string name="label_copy_checksum">Copy Checksum</string>
             <string name="file_not_found">File not found</string>
